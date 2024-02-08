@@ -1,3 +1,4 @@
+![logo](https://github.com/sanketpatil51/sanketpatil51/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sanket Patil</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
